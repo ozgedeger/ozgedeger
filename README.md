@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ozgedeger. I am a freshman computer engineering student at Koç University.
-- 🌱 I’m currently learning python.
+- 👋 Hi, I’m @ozgedeger. I am a sophomore computer engineering student at Koç University.
+- 🌱 I have experience with Python and Java.I am currently learning C.
 - 📫 You can contact me on LinkedIn: https://linkedin.com/in/ozgedeger
 
 <!---
